@@ -3,6 +3,7 @@ import hashlib
 import time
 import random
 from datetime import datetime
+from lequangminh import *
 
 def register_facebook_account():
     app = {
